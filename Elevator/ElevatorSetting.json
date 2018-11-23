@@ -1,0 +1,9 @@
+{
+  "ServerIp": "192.168.0.6",
+  "ServerPort": "58395",
+  "ElevatorId": "102030405060000001002",
+  "ElevatorHeartBeatSecond": "10",
+  "CallElevatorCostSecond": "12",
+  "ElevatorNo": "2"
+
+}
